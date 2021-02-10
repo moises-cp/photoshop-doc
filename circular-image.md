@@ -27,7 +27,7 @@ Tested on Photoshop v 22.2
     -  Go to **Output Settings** and set **Output To** to **New Layer**
     - Go to the bottom of the panel and click on **OK**
 4. Crop Image
-    - Press see to select **Crop** tool
+    - Press **c** to select **Crop** tool
     - Crop the image
     - Press **Enter** to apply this change
 5. Save Image for Web
