@@ -1,4 +1,4 @@
-# Photoshop Circular Image
+# Make Image Circular in Photoshop
 
 <small>
 Tested on Photoshop v 22.2
