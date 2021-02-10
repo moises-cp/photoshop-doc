@@ -50,3 +50,8 @@ Tested on Photoshop v 22.2
 
 ## Resources
 - [Adobe in a Minute](https://www.youtube.com/watch?v=ykYQjkKWgr8) (Video)
+
+<br>
+
+## Support
+- [Buy me a coffee](https://www.buymeacoffee.com/moisescp)
