@@ -29,7 +29,6 @@ Tested on Photoshop v 22.2
 ### Set **Select and Mask** Properties:
 1. Go to the top ribbon bar and click on **Select and Mask** (it used to be called Refine Edge)
     - This will open a **Properties** panel
-    - Go to this panel
 2. Go to **Properties** panel
 3. Go to **Edge Detection** section and set **Radius** to **0px**
 4. Go to **Output Settings** and set **Output To** to **New Layer**
