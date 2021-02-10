@@ -28,7 +28,7 @@ Tested on Photoshop v 22.2
     - Go to the bottom of the panel and click on **OK**
 4. Crop Image
     - Press **c** to select **Crop** tool
-    - Crop the image
+    - Select the area that needs to cropped
     - Press **Enter** to apply this change
 5. Save Image for Web
     - Press **Ctrl** + **shift** + **alt** + **s** to open **Save for Web** dialog window
