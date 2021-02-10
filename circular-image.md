@@ -18,7 +18,10 @@ Tested on Photoshop v 22.2
     - Move the mouse over the image to a starting point
     - Press and hold **shift** key (to keep it a perfect circle), click and keep the button pressed down, and drag to create a uniform circle
     - Release the mouse when done
-    - To reposition it, click and drag it   
+    - To reposition it:
+        - Click and keep the button pressed down over the circle 
+        - Move the mouse to reposition the circle
+        - Release the mouse button when done
 3. Set **Select and Mask** Properties:
     - Go to the top ribbon bar and click on **Select and Mask** (it used to be called Refine Edge)
         - This will open a **Properties** panel
